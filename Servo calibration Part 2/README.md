@@ -1,4 +1,8 @@
 # Raspberry-Pi-Pico-Cryton-Maker-Pi-Rp2040-2-Servo-control
-This sketch is to control 2 servos on a Pi Pico using Arduino Ide and C/C++
+This sketch is used to calibrate 1 single servo on GP pin 12 on the Cytron Maker Pi RP2040 board
 
-The servos will be on GP pins 13 and 15 in this example
+It is relating to the youtube video here.
+https://www.youtube.com/watch?v=ZzSAq8Ycuc4
+
+
+
